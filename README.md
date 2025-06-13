@@ -61,7 +61,7 @@ Este sistema multitarefa foi desenvolvido para a **BitDogLab** utilizando **Free
 
 ## Componentes:
 
-![componentes_Galton_Board](https://github.com/EmbarcaTech-2025/lab01_galton_board-nmarcal/blob/061cf471ceaa03de75cc0a1d5c6e7479a0b51f4d/assets/lista_componentes1.jpg?raw=true)
+![componentes_FreeRTOS](https://github.com/EmbarcaTech-2025/tarefa-freertos-1-nmarcal/blob/b772de47cfdf4ecfdf44aff78a742a12a1cbd766/assets/lista_componentes_FreeRTOS.jpg?raw=true)
 
 ---
 
@@ -79,5 +79,5 @@ Este sistema multitarefa foi desenvolvido para a **BitDogLab** utilizando **Free
 MIT License - MIT GPL-3.0.
 
 ---
-### sdkVersion 1.5.1
+### sdkVersion 2.1.1
 
