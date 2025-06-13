@@ -33,7 +33,7 @@ Este sistema multitarefa foi desenvolvido para a **BitDogLab** utilizando **Free
   - Usa a função `setLEDColor` para controlar os pinos dos LEDs.
 
 - **Tarefa do Buzzer**
-  - Emite um bipe de 100 ms seguido de 900 ms de silêncio.
+  - Emite um bipe de 100 ms a cada 1 segundo.
   - Usa a função `beep` para acionar os pinos do buzzer.
 
 - **Tarefa dos Botões**
