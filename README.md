@@ -61,7 +61,7 @@ Este sistema multitarefa foi desenvolvido para a **BitDogLab** utilizando **Free
 
 ## Componentes:
 
-![componentes_FreeRTOS](https://github.com/EmbarcaTech-2025/tarefa-freertos-1-nmarcal/blob/b772de47cfdf4ecfdf44aff78a742a12a1cbd766/assets/lista_componentes_FreeRTOS.jpg?raw=true)
+![componentes_FreeRTOS](https://github.com/EmbarcaTech-2025/tarefa-freertos-1-nmarcal/blob/de206bc178d88a873f12b92fe8b98214f384bd69/assets/lista_componentes_FreeRTOS.jpg?raw=true)
 
 ---
 
